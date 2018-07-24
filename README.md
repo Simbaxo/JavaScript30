@@ -14,3 +14,11 @@ Beginner to Intermediate devlopers and designers who want to become comfortable 
 
 Day One: Javascript Drum Kit
 Day Two: CSS + JS Clock
+Day Three: CSS Variables
+Day Four: Array Cardio Day 1
+Day Five: Flex Panel Gallery
+Day Six: Type Ahead
+Day Seven: Array Cardio Day 2
+Day Eight: Fun with HTML5 Canvas
+Day Nine: Dev Tools Domination
+Day Ten: Hold Shift and Check Checkboxes

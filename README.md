@@ -12,7 +12,7 @@ Who is this for?
 
 Beginner to Intermediate devlopers and designers who want to become comfortable with both JavaScript fundamentals and working in the DOM without a library. To access this course head to [*Wes Bos JavaScript 30*](https://JavaScript30.com)
 
-Will update with links to projects
+Will update with links to projects...
 
 - Day One: Javascript Drum Kit
 - Day Two: CSS + JS Clock

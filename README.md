@@ -24,4 +24,4 @@ Will update with links to projects...
 - Day Eight: Fun with HTML5 Canvas
 - Day Nine: Dev Tools Domination
 - Day Ten: Hold Shift and Check Checkboxes
-- Day Eleven: 
+- Day Eleven: Custom Video Player
